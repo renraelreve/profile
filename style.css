@@ -78,7 +78,6 @@ div {
   background-color: blue;
 }
 
-/* .container {
-  width: 700px;
-  margin: 0 auto;
-} */
+a i:hover {
+  color: blue;
+  }
